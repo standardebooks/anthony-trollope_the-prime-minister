@@ -51,3 +51,12 @@ p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
 }
+
+table{
+	margin: 1em auto;
+}
+
+table td:last-child{
+	text-align: right;
+	font-variant-numeric: tabular-nums;
+}
