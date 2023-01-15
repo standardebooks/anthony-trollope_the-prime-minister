@@ -15,7 +15,6 @@ footer{
 	text-indent: 0;
 }
 
-#chapter-34 table,
 [epub|type~="z3998:recipient"],
 [epub|type~="z3998:salutation"],
 [epub|type~="z3998:signature"]{
@@ -50,6 +49,7 @@ p span.i1{
 
 table{
 	margin: 1em auto;
+	font-variant: small-caps;
 }
 
 table td:last-child{
