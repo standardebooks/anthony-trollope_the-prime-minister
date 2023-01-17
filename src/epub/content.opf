@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anthony-trollope/the-prime-minister</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-01-17T05:40:18Z</dc:date>
+		<meta property="dcterms:modified">2023-01-17T05:40:18Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -47,14 +47,15 @@
 		<dc:description id="description">The Duke of Omnium leads a coalition government while doubting his capacity to do so.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Plantagenet Palliser, now the Duke of Omnium, is a familiar character to the readers of the &lt;a href="https://standardebooks.org/collections/chronicles-of-barsetshire"&gt;Barchester&lt;/a&gt; and &lt;a href="https://standardebooks.org/collections/palliser"&gt;Palliser&lt;/a&gt; series, but only now, at a moment of political crisis, does he take center stage. Neither the Liberals nor the Conservatives can command a majority in Parliament; the Duke is called upon as the only figure capable of forming a coalition government. He does so, but only with deep misgivings about whether the role of Prime Minister suits his character. As he assumes the role, the irrepressible Duchess, still known as Lady Glencora to her friends as well as her enemies, forms an ambition of her own to bolster his administration with lavish social display, much to her husband’s consternation.&lt;/p&gt;
-			&lt;p&gt;The antitype to the virtuous Duke is the character of Ferdinand Lopez, whose story—along with that of his wife, and his rival—frames and intertwines with that of the Prime Minister’s coalition government. While the Duke is upgright but thin-skinned, Lopez possesses the thickest of skins, but no morals to speak of. His vaulting ambition likewise contrasts with the Duke’s enervating self-doubt. &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Trollope&lt;/a&gt; commenced writing &lt;i&gt;The Prime Minister&lt;/i&gt; only a few weeks after completing his masterpiece, &lt;a href="https://standardebooks.org/ebooks/anthony-trollope/the-way-we-live-now"&gt;&lt;i&gt;The Way We Live Now&lt;/i&gt;&lt;/a&gt;. His caustic treatment of contemporary English society in the earlier novel spills over into the menace posed by Lopez in this one.&lt;/p&gt;
-			&lt;p&gt;Though contemporary critics were not impressed by &lt;i&gt;The Prime Minister&lt;/i&gt;, C. P. Snow reports in his biography of Trollope that others were. &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy&lt;/a&gt;, for one, read it with appreciation while writing &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/anna-karenina/constance-garnett"&gt;&lt;i&gt;Anna Karenina&lt;/i&gt;&lt;/a&gt;, his secretary recording Tolstoy’s admiration: “Trollope kills me, kills me with his excellence.” Meanwhile, Harold Macmillan, Prime Minister from 1957 to 1963, told Snow that Trollope’s studies of political process were ”right both in tone and detail.”&lt;/p&gt;
+			&lt;p&gt;The antitype to the virtuous Duke is the character of Ferdinand Lopez, whose story—along with that of his wife, and his rival—frames and intertwines with that of the Prime Minister’s coalition government. While the Duke is upright but thin-skinned, Lopez possesses the thickest of skins, but no morals to speak of. His vaulting ambition likewise contrasts with the Duke’s enervating self-doubt.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Trollope&lt;/a&gt; commenced writing &lt;i&gt;The Prime Minister&lt;/i&gt; only a few weeks after completing his masterpiece, &lt;a href="https://standardebooks.org/ebooks/anthony-trollope/the-way-we-live-now"&gt;&lt;i&gt;The Way We Live Now&lt;/i&gt;&lt;/a&gt;. His caustic treatment of contemporary English society in the earlier novel spills over into the menace posed by Lopez in this one.&lt;/p&gt;
+			&lt;p&gt;Though contemporary critics were not impressed by &lt;i&gt;The Prime Minister&lt;/i&gt;, C. P. Snow reports in his biography of Trollope that others were. &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy&lt;/a&gt;, for one, read it with appreciation while writing &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/anna-karenina/constance-garnett"&gt;&lt;i&gt;Anna Karenina&lt;/i&gt;&lt;/a&gt;, his secretary recording Tolstoy’s admiration: “Trollope kills me, kills me with his excellence.” Meanwhile, Harold Macmillan, Prime Minister from 1957 to 1963, told Snow that Trollope’s studies of political process were “right both in tone and detail.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2158</dc:source>
 		<dc:source>https://archive.org/details/cu31924086980947</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">286428</meta>
+		<meta property="se:reading-ease.flesch">80.62</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Prime_Minister_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-trollope_the-prime-minister</meta>
 		<dc:creator id="author">Anthony Trollope</dc:creator>
@@ -83,6 +84,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
