@@ -82,6 +82,7 @@
 		<dc:contributor id="producer-1">David Reimer</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Reimer, David</meta>
 		<link href="https://github.com/dajare" refines="#producer-1" rel="schema:url"/>
+		<link href="https://id.loc.gov/authorities/names/n92075987.html" refines="#producer-1" rel="schema:sameAs"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
